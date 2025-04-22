@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/add.h
+iostream
+-
+
+../include/sub.h
+iostream
+-
+
+/workspaces/C-Remote/2025-04-19-多文件/main.cpp
+add.h
+/workspaces/C-Remote/2025-04-19-多文件/add.h
+sub.h
+/workspaces/C-Remote/2025-04-19-多文件/sub.h
+

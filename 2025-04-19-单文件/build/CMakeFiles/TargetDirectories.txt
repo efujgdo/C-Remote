@@ -1,0 +1,3 @@
+/workspaces/C-Remote/2025-04-19-单文件/build/CMakeFiles/rebuild_cache.dir
+/workspaces/C-Remote/2025-04-19-单文件/build/CMakeFiles/edit_cache.dir
+/workspaces/C-Remote/2025-04-19-单文件/build/CMakeFiles/test_cmake.dir
