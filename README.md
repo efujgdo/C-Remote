@@ -1,2 +1,2 @@
-# C++-Remote
+# C-Remote
 ~
